@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning java and html&css + phaser
 - 👯 I’m looking to collaborate on everything
-- 🤔 I’m looking for help with java
+- 🤔 I’m looking for help with java script 
 - 💬 Ask me about anything
 - 📫 How to reach me: my email is musasizis199@gmail.com
 am a teenager and a boy
