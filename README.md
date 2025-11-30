@@ -1,72 +1,84 @@
-👋 Hi, I’m Musasizi Solomon
-💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 Self-Taught Builder
+<!-- Header Banner -->
+<h1 align="center">Hi, I'm <strong>Musasizi Solomon</strong> 👋</h1>
+<h3 align="center">💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 Self-Taught Builder</h3>
 
-I’m a passionate self-taught frontend developer who loves creating clean, responsive, and accessible user interfaces.
-I learn by building, and I enjoy turning ideas into real, functional web experiences.
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20Developer-%F0%9F%92%BB-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-%F0%9F%93%B1-green?style=for-the-badge" />
+</p>
 
-🚀 About Me
+---
 
-🌍 Based in Kampala, Uganda
+## 🚀 About Me  
+I’m a passionate **self-taught frontend developer** who loves building clean, responsive, and user-friendly interfaces.  
+I learn by **creating projects**, solving challenges, and diving deep into real-world problems.
 
-✨ Passionate about JavaScript, UI design, and responsive layouts
+- 🌍 Based in **Kampala, Uganda**  
+- ✨ Lover of **JavaScript, CSS, and UI design**  
+- 🎯 Completed **226+ challenges** on Frontend Mentor  
+- 🌱 Currently learning **API integration** and **advanced animations**  
+- 💡 Believer in **project-based learning**  
+- 🛠 My portfolio → **https://rayaatta.github.io/My-portfolio**
 
-📚 Self-taught through Codecademy, MDN, Frontend Mentor, and hands-on projects
+---
 
-💡 I believe in project-based learning and sharing what I know
+## 🛠 Tech & Tools
 
-🧩 Love solving coding challenges — 226+ completed on Frontend Mentor
+### **Languages & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-🌱 Currently improving in: advanced JS, API interactions, and CSS animations
+### **Tools & Workflow**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-🛠️ Tech Stack
-Frontend
+---
 
-HTML5
+## 🔥 Featured Projects  
 
-CSS3 (Flexbox, Grid)
+### 📊 **Results Summary Component**  
+Responsive, accessible, and clean UI for summarizing user results.
 
-JavaScript (ES6+)
+### 📨 **Newsletter Signup Component**  
+A mobile-first signup form built with modern UI patterns.
 
-Tools & Workflow
+### 🌐 **Huddle Landing Page Clone**  
+Beautiful layout using Flexbox + strong visual hierarchy.
 
-Git & GitHub
+### ⭐ **Testimonials Grid Layout**  
+Showcases CSS Grid mastery with clean design.
 
-Responsive Design
+👉 **See everything I’ve built:**  
+🔗 https://rayaatta.github.io/My-portfolio
 
-Accessibility (WCAG basics)
 
-SEO & Performance
+## 🚀 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rayaatta&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+</p>
 
-GitHub Pages / Netlify
+---
 
-Browser DevTools
+## 🌐 Connect With Me
 
-🔥 Featured Projects
+<p>
+  <a href="mailto:musasizis199@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge" />
+  </a>
+  <a href="https://rayaatta.github.io/My-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/rayaatta">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
+  </a>
+</p>
 
-Here are some of my favorite builds:
+---
 
-📊 Results Summary Component — accessible, clean, and responsive
+## 🎉 Fun Fact  
+I grow my skills every day through challenges, projects, and curiosity-driven learning.
 
-📨 Newsletter Signup Component — mobile-first form UI
-
-🌐 Huddle Landing Page Clone — beautiful layout with strong typography
-
-⭐ Testimonials Grid Layout — modern CSS Grid implementation
-
-👉 See all my projects: https://rayaatta.github.io/My-portfolio/
-
-📈 GitHub Stats (Optional widgets)
-
-You can add these too:
-
-![Solomon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rayaatta&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayaatta&layout=compact)
-
-📬 Let’s Connect
-
-📧 Email: musasizis199@gmail.com
-
-🌐 Portfolio: rayaatta.github.io/My-portfolio
-
-🐙 GitHub: github.com/rayaatta
+Thanks for stopping by! 🚀  
